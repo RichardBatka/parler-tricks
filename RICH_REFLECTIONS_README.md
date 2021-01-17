@@ -1,3 +1,15 @@
+*** Comments from Rich B. ****
+
+This is a very important window into the mind of the next generation of highly skilled engineers.
+This fork represents how one person Reverse engineered the Parler API and conducted data exfiltration operation in excess of 50 Terabytes.
+What can we learn from this event to make future api implementations more robust?
+This event was conducted by a 26 years old, coordinated a large group on twitter, and used off the shelf software. 
+Read and learn. -R
+
+*** END COMMENTS FROM RICH B. ***
+
+*** START COMMENTS FROM EXTERNAL SOURCE ***
+
 Parler's unofficial API with all endpoints present in their iOS app as of 08/12/2020.
 
 For the most part undocumented, but the error responses are already quite descriptive.
